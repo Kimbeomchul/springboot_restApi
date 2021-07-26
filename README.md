@@ -1,2 +1,5 @@
 # springboot_restApi
-Springboot_restAPI
+- gradle
+- spring-boot
+- H2 db
+[Springboot_restAPI](https://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/)
