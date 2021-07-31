@@ -10,8 +10,9 @@ public class MainController {
     @Autowired
     private MainService service;
 
-    @GetMapping("/get")
+    @GetMapping
     public void getAll(){
+        System.out.println("@@@@");
         service.getAll();
     }
 }

@@ -1,12 +1,12 @@
+com/miaps/repository/personRepository.java
+ com.miaps.repository.personRepository
 com/miaps/comm/SwaggerConfig.java
  com.miaps.comm.SwaggerConfig
-com/miaps/task/dao/ReserveDao.java
- com.miaps.task.dao.ReserveDao
+com/miaps/service/MainService.java
+ com.miaps.service.MainService
 com/miaps/Application.java
  com.miaps.Application
-com/miaps/task/ResultVO.java
- com.miaps.task.ResultVO
-com/miaps/task/entity/reserve.java
- com.miaps.task.entity.reserve
-com/miaps/controller/ReserveController.java
- com.miaps.controller.ReserveController
+com/miaps/entity/person.java
+ com.miaps.entity.person
+com/miaps/controller/MainController.java
+ com.miaps.controller.MainController
